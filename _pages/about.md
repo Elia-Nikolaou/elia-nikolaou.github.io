@@ -13,7 +13,7 @@ I am a **second-year PhD candidate** at the [University of Edinburgh](https://ww
 
 Before that, I completed my MSc in Information Security at [UCL](https://www.ucl.ac.uk/) and I finished my final project under the supervision of [Philipp Jovanovic](https://profiles.ucl.ac.uk/75518-philipp-jovanovic), researching Distributed Key Generation algorithms.
 
-Graduate from the [University of Cyprus](https://www.ucy.ac.cy/?lang=en) with a bachelor's degree in Computer Science - Represented the University at Huawei Talent Summit 2021, sharing my team's project FIRELIA, an alternative approach using AI and IoT to detect wildfires.
+Graduated from the [University of Cyprus](https://www.ucy.ac.cy/?lang=en) with a bachelor's degree in Computer Science - Represented the University at Huawei Talent Summit 2021, sharing my team's project FIRELIA, an alternative approach using AI and IoT to detect wildfires.
 
 <span style="color:gray">Hobbies:</span>
 -------
