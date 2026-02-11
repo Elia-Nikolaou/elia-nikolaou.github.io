@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Elia Nikolaou"
 title_separator          : "-"
 name                     : &name "Elia Nikolaou"
-description              : &description "PhD Student"
-url                      : https://Elia-Nikolaou.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "PhD Student,  University of Edinburgh "
+url                      : https://elia-nikolaou.github.io # t he base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : ""
 repository               : "Elia-Nikolaou.github.io"
 
@@ -120,7 +120,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "FzFg5eS7gg1ws_lyXwusbCxUmg06tiiJeftr-gO0tOU"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -142,11 +142,11 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: false  # use boolean, not string
   google:
-    tracking_id          :
+    tracking_id:
+
 
 
 # Reading Files
@@ -294,7 +294,6 @@ permalink: /:categories/:title/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -302,8 +301,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-seo-tag   # ← add
 
-# Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
   - jekyll-gist
@@ -311,7 +310,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
+  - jekyll-seo-tag   # ← add
 
 # Archives
 #  Type
